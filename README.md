@@ -23,7 +23,7 @@ single-page-app · no-dependencies · anti-ai-shield · qwen-academy
 > Билингвальная детская игра-сортер. Полностью офлайн, без внешних зависимостей.
 > Поддержка мыши, тач-устройств, клавиатуры и скринридеров (ARIA).
 
-[🌐 Играть онлайн](https://ВАШ-НИК.github.io/anti-ai-qwen-academy-sorter/) · 
+ 
 [📂 Все проекты Anti-AI Shield](https://ancf-hue.github.io/)
 
 ---
