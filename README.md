@@ -13,6 +13,11 @@
   проект с открытым исходным кодом"
 
 
+html · javascript · css · game · educational-game · shape-sorter 
+offline · bilingual · russian · accessibility · kids-games 
+single-page-app · no-dependencies · anti-ai-shield · qwen-academy
+
+
 # 🎮 Сортер — Анти ИИ Qwen Академия
 
 > Билингвальная детская игра-сортер. Полностью офлайн, без внешних зависимостей.
